@@ -1,1 +1,5 @@
 node_modules
+.eslint.json
+.prettierrc.json
+package-lock.json
+package.json
